@@ -11,6 +11,8 @@ The Qwiic Pressure Sensor for the MS5637 is a very sensitive, fully calibrated, 
 
 The original manufacturer TE has written a great Arduino library for the device. We've added a heap of examples and new functions to make the sensor even easier to use. Search the Arduino Library manager for 'SparkFun MS5637' to get the latest library features.
 
+This board is one of our many [Qwiic](https://www.sparkfun.com/qwiic) compatible boards! Simply plug and go. No soldering, no figuring out which is SDA or SCL, and no voltage regulation or translation required!
+
 SparkFun labored with love to create this code. Feel like supporting open source hardware? 
 Buy a [breakout board](https://www.sparkfun.com/products/14688) from SparkFun!
 
